@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeff509HT
 - 👀 I’m interested in science computer
-I am software enginer i specialise in 
+I am learning software enginer i specialise in 
 web developement
 
 - 🌱 I’m currently learning ...
